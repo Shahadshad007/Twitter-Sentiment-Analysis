@@ -5,7 +5,7 @@ This project demonstrates a real-time Twitter sentiment analysis system using Py
 ## Project Structure
 
 - **`SENTIMENT.CSV`:** Dataset containing historical tweets and their sentiment labels (positive, negative). Replace with your own dataset or download a suitable one.
-- **`model.py`:** (or your notebook file name) Main Python script containing the code for batch processing, model training, and real-time streaming.
+- **`code.py`:** (or your notebook file name) Main Python script containing the code for batch processing, model training, and real-time streaming.
 
 
 ## Getting Started
